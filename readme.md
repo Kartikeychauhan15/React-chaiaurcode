@@ -23,3 +23,11 @@ my github Api
 ["https://api.github.com/users/kartikeychauhan15"]
 
 localStorage on mdn read docs of it.
+
+Read docs also about Context Api (Part 1 and 2)
+
+Learning about redux and Redux toolkit
+[1:17:05] Part-2 Making a TodoApp using react-redux----------
+["https://redux-toolkit.js.org/introduction/getting-started"]
+
+Also using react-redux extension in chrom browser
