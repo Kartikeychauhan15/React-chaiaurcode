@@ -21,3 +21,5 @@ DevUi.io---------------IMP
 
 my github Api
 ["https://api.github.com/users/kartikeychauhan15"]
+
+localStorage on mdn read docs of it.
