@@ -31,3 +31,12 @@ Learning about redux and Redux toolkit
 ["https://redux-toolkit.js.org/introduction/getting-started"]
 
 Also using react-redux extension in chrom browser
+
+
+
+-------------------------
+React Major/Mega Project blog 
+[2:30:01] Starting from it
+
+and also Deploying the Project (IMP)------
+React Major Project.-----------
