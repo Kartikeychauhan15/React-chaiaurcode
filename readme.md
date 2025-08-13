@@ -60,3 +60,6 @@ React Major Project.-----------
     "react-hook-form": "^7.62.0",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.8.0"
+
+
+    Mega project ko baar baar dekho agar smjh na aaye to usko dobara dekho. watch videos again and again to kanthasth karlo is project ko.
