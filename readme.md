@@ -73,3 +73,8 @@ React Major Project.-----------
     But will figure it out and add more new features in this React Mega Blog Project.
 
     Remnder to me to make it more optimized and more functionality in the Project.
+
+    freeApi.app by Hitesh Sir
+    ["https://github.com/hiteshchoudhary/apihub"]
+
+    ["https://freeapi.hashnode.space/freeapi-docs/freeapi"]
