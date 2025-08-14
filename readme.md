@@ -63,3 +63,7 @@ React Major Project.-----------
 
 
     Mega project ko baar baar dekho agar smjh na aaye to usko dobara dekho. watch videos again and again to kanthasth karlo is project ko.
+
+
+    Read about CORS in MDN docs
+    

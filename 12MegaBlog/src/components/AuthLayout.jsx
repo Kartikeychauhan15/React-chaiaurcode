@@ -13,7 +13,7 @@ export default function Protected({children, authentication = true}) {
 
     useEffect(()=>{
         // TODO: make it more easy to understand
-        
+        // try to exlanin or acknowledge the code and know how it works.-------
         if(authentication && authStatus !== authentication){
             navigate('/login')
         }else if(!authentication && authStatus !== authentication){

@@ -6,9 +6,11 @@ import LogoutBtn from "./Header/LogoutBtn";
 import RTE from "./RTE";
 import Signup from "./Signup";
 import Login from "./Login";
-import Post from "./Post"
-import AddPost from "../pages/AddPost";
-import PostForm from "./post-form/PostForm"
+import PostForm from "./post-form/PostForm";
 import PostCard from "./PostCard";
+import AuthLayout from "./AuthLayout";
+import Input from "./Input";
+import Button from "./Button";
+import Select from "./Select";
 
-export { Header, Footer, Container, Logo, LogoutBtn, RTE, Signup, Login ,Post, AddPost , PostForm, PostCard};
+export { Header, Footer, Container, Logo, LogoutBtn, RTE, Signup, Login  , PostForm, PostCard, AuthLayout, Input , Button, Select};
