@@ -67,3 +67,9 @@ React Major Project.-----------
 
     Read about CORS in MDN docs
     
+
+    Tinycloud issue----
+    It requires API key and their docs to use their features in this project I skip this because of too much time in building the project.
+    But will figure it out and add more new features in this React Mega Blog Project.
+
+    Remnder to me to make it more optimized and more functionality in the Project.
